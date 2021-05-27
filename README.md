@@ -2,7 +2,7 @@
 
 This is Alessandro, software engineer from Italy, living in Japan.
 
-- 🔭 I'm currently working with [@corda](https://github.com/corda) distributed ledger as solution engineer, and I spend lot of time with [@aws](https://github.com/aws), [@azure](https://github.com/azure) and k8s
+- 🔭 I'm currently working with [@corda](https://github.com/corda) distributed ledger as solution engineer, and I spend lot of time with [@aws](https://github.com/aws), [@azure](https://github.com/azure), [k8s](https://github.com/kubernetes/kubernetes), [@kotlin](https://github.com/JetBrains/kotlin) and [@java](https://github.com/openjdk/jdk)
 - 🌱 I'm currently learning [@ethereum/solidity](https://github.com/ethereum/solidity), [@fabric-sdk-go](https://github.com/hyperledger/fabric-sdk-go), [@aries-framework-go](https://github.com/hyperledger/aries-framework-go), [@go-ipfs](https://github.com/ipfs/go-ipfs), [@aws-cdk](https://github.com/aws/aws-cdk)
 - 👯 I’m looking to collaborate on one of those above 
 - 📫 How to reach me: [twitter @alebaffa](https://twitter.com/alebaffa/)
