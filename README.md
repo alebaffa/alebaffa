@@ -7,7 +7,6 @@ This is Alessandro, software engineer from Italy, living in Japan.
 - 📫 How to reach me: [twitter @alebaffa](https://twitter.com/alebaffa/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alebaffa&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alebaffa&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alebaffa&theme=default)
 
 <!--
