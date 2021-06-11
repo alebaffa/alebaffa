@@ -8,6 +8,7 @@ This is Alessandro, software engineer from Italy, living in Japan.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alebaffa&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alebaffa&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alebaffa&theme=default)
 
 <!--
 **alebaffa/alebaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
