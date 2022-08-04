@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=alebaffa&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="left" width="250" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap-2022-ethereumorg-contributor-2022-logo-1649270203770.png&w=384&q=75" />
