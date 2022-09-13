@@ -10,7 +10,7 @@ This is Alessandro, software engineer from Italy, living in Japan.
 ## Live Stats 📊
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alebaffa&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alebaffa&count_private=true&hide_rank=true&langs_count=10&hide=hcl,vue,ruby,scss,javascript,php,css,typescript,html,postscript&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alebaffa&count_private=true&hide_rank=true&langs_count=8&hide=powershell,c,jupyter%20notebook,hcl,vue,ruby,scss,javascript,php,css,typescript,html,postscript&layout=compact&theme=tokyonight" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alebaffa&theme=tokyonight)](https://git.io/streak-stats)
 
